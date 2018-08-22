@@ -1,3 +1,4 @@
+#run pip install xlwt
 import xlwt
 from xlwt import Workbook
 i18nFile= open("i18n.properties")

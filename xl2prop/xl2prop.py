@@ -1,3 +1,4 @@
+#run pip install xlrd datetime
 import xlrd
 import datetime
 wb = xlrd.open_workbook("i18n.xls")
